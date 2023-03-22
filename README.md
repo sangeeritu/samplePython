@@ -1,4 +1,4 @@
-                                               **Python selenium - with POM pattern****
+                                               **Python selenium - with POM pattern**
 
 
 Automation for https://www.amazon.com/ website login and search
