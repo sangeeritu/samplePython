@@ -18,6 +18,8 @@ Uses testcases , testdata and locators from seperate files which enables easy ma
 
 **How to Run**
 
-Clone the repository from the branch
-Run 
+1. Clone the repository from the branch
+2. Run 
+
+
  python -m unittest 
