@@ -1,4 +1,4 @@
-**                                                    **Python selenium - with POM pattern ****
+                                               **Python selenium - with POM pattern ****
 
 
 Automation for https://www.amazon.com/ website login and search
@@ -14,14 +14,12 @@ python
 
 **Best Parctices **
 
-Uses Page object model
-Use Reusable Request
-Uses testcases , testdata and locators from seperate files which enables easy maintablity and emables reuse 
+1. Uses Page object model
+2. Use Reusable Request
+3. Uses testcases , testdata and locators from seperate files which enables easy maintablity and emables reuse 
 
 **How to Run**
 
 1. Clone the repository from the branch
 2. Run 
-
-
  python -m unittest 
