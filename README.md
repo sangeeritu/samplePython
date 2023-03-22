@@ -1,4 +1,4 @@
-                                               **Python selenium - with POM pattern ****
+                                               **Python selenium - with POM pattern****
 
 
 Automation for https://www.amazon.com/ website login and search
@@ -12,7 +12,7 @@ Intelliji IDE with selenium
 python
 
 
-**Best Parctices **
+**Best Parctices**
 
 1. Uses Page object model
 2. Use Reusable Request
