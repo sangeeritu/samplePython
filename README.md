@@ -1,8 +1,10 @@
-**Python selenium - with POM pattern **
+**                                                    **Python selenium - with POM pattern ****
+
 
 Automation for https://www.amazon.com/ website login and search
 
-This sampel showcases the structured skeleton of python selenium framework implementing POM.
+This is a sample showcasing the structured skeleton of python selenium framework implementing POM.
+This is just a template.
 
 **Pre condition**
 
