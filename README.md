@@ -11,6 +11,7 @@ python
 
 
 **Best Parctices **
+
 Uses Page object model
 Use Reusable Request
 Uses testcases , testdata and locators from seperate files which enables easy maintablity and emables reuse 
