@@ -10,6 +10,6 @@ def test_cases(number):
 testCases = [
     # [severity, description]
     ['Blocker', 'when user goes to main page, page should be loaded'],
-    ['Blocker', 'In Main page, when user search "iphone" button, he should see result for Nexus 5'],
+    ['Blocker', 'In Main page, when user search "iphone" button, he should see result for iphone'],
 
 ]

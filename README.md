@@ -8,11 +8,11 @@ This is just a template.
 
 **Pre condition**
 
-Intelliji IDE with selenium
+Intellij IDE with selenium
 python
 
 
-**Best Parctices**
+**Best Practices**
 
 1. Uses Page object model
 2. Use Reusable Request
