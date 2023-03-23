@@ -1,10 +1,10 @@
-                                               **Python selenium - with POM pattern**
+                                               **Python selenium in BrowserStack- with POM pattern**
 
 
-Automation for https://www.amazon.com/ website login and search
+Automation for https://www.amazon.com/ website login and search functionality.
 
 This is a sample showcasing the structured skeleton of python selenium framework implementing POM.
-This is just a template.
+BrowserStack has been implemented and currently it runs in chrome browser (MacOS)
 
 **Pre condition**
 
